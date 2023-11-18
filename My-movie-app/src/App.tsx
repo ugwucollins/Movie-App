@@ -9,6 +9,7 @@ import MovieBox from "./MovieBox";
 
 const API_URL = "https://api.themoviedb.org/3/search/movie?query=";
 const QUERY = "";
+QUERY
 const API_KEY = "&api_key=fd85488746b2b3420e6dd65219f99e37";
 
 function App() {
